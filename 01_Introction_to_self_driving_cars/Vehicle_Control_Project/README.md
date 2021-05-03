@@ -23,7 +23,7 @@ This will be based on _Stanley_ Method, The Stanley method is the path tracking 
 
 ![stanley Geometry](https://github.com/AmarYasser/Self_Driving_Cars_Toronto_University/blob/main/01_Introction_to_self_driving_cars/Vehicle_Control_Project/controller_output/stanley_Geometry.png "stanley Geometry") 
 
-![stanley_Equation](https://github.com/AmarYasser/Self_Driving_Cars_Toronto_University/blob/main/01_Introction_to_self_driving_cars/Vehicle_Control_Project/controller_output/stanley_Geometry.png "stanley_Equation")
+![stanley_Equation](https://github.com/AmarYasser/Self_Driving_Cars_Toronto_University/blob/main/01_Introction_to_self_driving_cars/Vehicle_Control_Project/controller_output/stanley_Equation.png "stanley_Equation")
 
 
 ## Runnig the simualtor 
